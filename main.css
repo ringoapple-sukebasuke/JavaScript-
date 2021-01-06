@@ -1,0 +1,13 @@
+#result {
+    background-color: black;
+    color: white;
+    text-align: right;
+    width: 110px;
+}
+
+input {
+    width: 25px;
+}
+.ccc > input {
+    width: 56px;
+}
